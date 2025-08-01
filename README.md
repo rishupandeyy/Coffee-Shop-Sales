@@ -1,3 +1,3 @@
 # Coffee-Shop-Sales
 
-!\[My Image](coffe\_shop\_dashboard.png)
+!\[My Image](coffe shop dashboard.png)

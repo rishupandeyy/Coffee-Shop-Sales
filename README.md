@@ -1,3 +1,4 @@
 # Coffee-Shop-Sales
 
-!\[My Image](coffe shop dashboard.png)
+![Dashboard](coffe%20shop%20dashboard.png)
+
